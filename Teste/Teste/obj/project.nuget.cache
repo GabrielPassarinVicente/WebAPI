@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSmvcNN+ZNE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Passa\\source\\repos\\Teste\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Passa\\.nuget\\packages\\sharpkml.core\\6.1.0\\sharpkml.core.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
